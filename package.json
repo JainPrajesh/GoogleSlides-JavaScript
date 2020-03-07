@@ -1,0 +1,24 @@
+{
+  "name": "extra-credit-assignment-ppt-prajesh06",
+  "version": "1.0.0",
+  "description": "extra-credit-assignment-ppt-prajesh06 created by GitHub Classroom",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neu-mis-info6150-fall-2018/extra-credit-assignment-ppt-prajesh06.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neu-mis-info6150-fall-2018/extra-credit-assignment-ppt-prajesh06/issues"
+  },
+  "homepage": "https://github.com/neu-mis-info6150-fall-2018/extra-credit-assignment-ppt-prajesh06#readme",
+  "devDependencies": {
+    "webpack": "^4.25.1",
+    "webpack-cli": "^3.1.2"
+  }
+}
